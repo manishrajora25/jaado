@@ -1,0 +1,445 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+.header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 30px;
+    }
+    
+    .mylist ul  {
+       
+        display: flex;
+        justify-content: space-evenly;
+        list-style: none; 
+    
+    }
+    
+    .mylist ul a{
+        padding: 0px 20px;
+        margin-right: 100px;
+        border-radius: 20px;
+        text-decoration: none;
+        margin: 10px;
+        color: black;
+}
+.new{
+    margin-left: 45px;
+}
+.name{
+    border: 1px solid black;
+    border-radius: 8    px;
+    margin: 0px 20px;
+   
+}
+#hinditoenglish{
+
+    border-style: none;
+}
+
+.many{
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.developers{
+   
+    margin-left: 50px;
+    width: 700px;
+   
+}
+
+.developers h1{
+    color: rgb(52, 52, 105);
+    font-size: 55px;
+    width: 480px;
+    
+}
+.developers p{
+color: gray;   
+    padding: 20px 0;
+    text-align: left;
+}
+h6{
+    color: red;
+    font-size: 15px;
+}
+
+.hellothis{
+    display: flex;
+    align-items: center;
+}
+
+.lose a{
+    text-decoration: none;
+    background-color: rgba(255, 166, 0, 0.76);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px; 
+    font-size: 18px;
+    font-weight:bold;
+    
+}
+
+.did{
+    height: 45px;
+    width: 60px;
+}
+.did img{
+    height: 100%;
+    width: 100%;
+  
+}
+
+
+.The{
+    width: 500px;
+    height: 500px;
+    margin-right: 50px;
+}
+
+.The img{
+    width: 100%;
+    height: 100%;
+  
+}
+.category{
+    color: rgb(52, 52, 105);
+    margin-top: 95px;
+    padding-top: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.weather{
+    width: 150px;
+    margin-top: 40px;
+    text-align: center;
+    position: relative;
+
+}
+
+.offer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.local{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+.local img{
+    height: 100%;
+    width: 100%;
+}
+.move{
+position: absolute;
+left: 1025px;
+bottom: 200px;
+
+}
+
+.selling{
+    color: rgb(52, 52, 105);
+    margin-top: 160px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.room{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.this{
+    margin-top: 30px;
+}
+.full{
+    height: 380px;
+    width: 350px;
+    margin: 40px;
+}
+.full img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+   
+}
+.FullEurope{
+    display: flex;
+    
+}
+
+
+.world{
+  margin-top: 100px;
+  padding-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.matter{
+    margin-top: 30px;
+    width: 750px;
+
+}
+.bookyour{
+    margin-top: 20px;
+    width: 500px;
+}
+
+.bookyour h1{
+    color: rgb(52, 52, 105);
+    font-size: 50px;
+}
+.bookyour h6{
+color: black;
+
+}
+
+.choose{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.formee{
+  padding: 10px;
+    border-radius: 12px;
+    background-color: rgba(255, 0, 0, 0.623);
+
+}
+.your{
+    margin-top: 25px;
+    width: 655px;
+    
+  
+}
+
+
+.super{
+height: 45px;
+width: 45px;
+}
+.super img{
+    height: 100%;
+    width: 100%;
+    margin: 5px;
+}
+.free{
+    height: 180px;
+    width: 250px;
+}
+.free img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    margin-left: -42px;
+}
+
+.greece{
+    margin-top: 10px;
+    position: absolute;
+    right: 125px;
+}
+.greece h6{
+    color: black;
+}
+.greece p{
+    color: gray;   
+    margin: 10px;
+}
+.FullEurope{
+    
+}
+.helloji{
+    margin-top: 30px;
+    margin: 0px 20px;
+    /* border: 1px solid black; */
+    color: white;
+    background-color: rgba(0, 0, 0, 0.123);
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 7px;
+}
+.bulding{
+    padding: 0px 10px;
+    margin-top: 30px;
+}
+
+.what{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    height: 200px;
+
+}
+
+.what{
+    margin: 100px;
+    padding-top: 50px;
+}
+
+.about{
+    color: rgb(52, 52, 105);
+    width: 300px;
+   margin: 10px;
+    font-size: 20px;
+   
+}
+.windows{
+    margin-left: 250px;
+    padding: 20px;
+    width: 500px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.034);
+}
+.windows h4{
+    color: rgb(52, 52, 105);
+     margin-top: 10px;
+}
+
+.just{
+    height: 50px;
+    width: 50px; 
+    position: absolute;
+    top: 17px;
+    left: 600px;
+    
+}
+.just img{
+    height: 100%;
+    width: 100%;
+    
+}
+.logos{
+    margin: 90px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.marjen{
+    height: 45px;
+    width: 120px;
+}
+.marjen img{
+    height: 100%;
+    width: 100%;
+}
+
+.subscribe{
+    width: 1000px;
+    height: 250px;
+    background-color: rgba(236, 236, 245, 0.87);
+    margin-top: 70px;
+    padding-top: 50px;
+    margin: auto;
+    border-radius: 100px 10px 10px 10px;
+    position: relative;
+
+}
+.toget h3{
+    color: rgb(52, 52, 105);
+    margin-top: 30px;
+    text-align: center;
+
+}
+.enter{
+
+    margin: auto;
+    position: absolute;
+    bottom: 40px;
+    left: 300px;
+}
+input{
+ 
+  padding: 8px 40px;
+  border-radius: 10px 0px 0px 0xp;
+  border: 1px solid white;
+}
+button{
+    padding: 8px 20px;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.534);
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.pan{
+    position: absolute;
+    top: 180px;
+    left: 310px;
+}
+
+.sore{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 980px;
+    bottom: 228px;
+}
+.sore img{
+    height: 100%;
+    height: 100%;
+}
+
+
+
+.mytrip{
+    width: 300px;
+}
+.jadoo{
+    margin: 100px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.name2{
+    margin: 10px;
+}
+.name2 p a{
+    margin-top: 10px;
+    text-decoration: none;
+}
+.Company li {
+    list-style: none;
+    padding: 10px;
+}
+.Company a{
+    text-decoration: none;
+    color: black;
+}
+.Company h4{
+    color: rgb(52, 52, 105);
+    margin-bottom: 25px;
+}
+    
+
+.apple{
+    padding: 20px 50px 0px 0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    
+}
+.stor{
+    padding: 0px 5px;
+}
+.name2:hover{
+color: red;
+}
